@@ -1,0 +1,71 @@
+[Dúvida] Buscar botões sem ID usando o selenium no Python,https://cursos.alura.com.br/forum/topico-duvida-buscar-botoes-sem-id-usando-o-selenium-no-python-352088
+Selenium,https://www.selenium.dev/
+Automação selenium Webdriver com python,https://pt.stackoverflow.com/questions/489586/automa%C3%A7%C3%A3o-selenium-webdriver-com-python
+Python Testing with Selenium: Learn to Implement Different ...,https://www.amazon.com.br/Python-Testing-Selenium-Implement-Techniques/dp/1484262484
+Guide to Using Python Selenium,https://medium.com/@moraneus/guide-to-using-python-selenium-873342d5fdad
+O que é Selenium em Python?,https://www.dio.me/articles/o-que-e-selenium-em-python
+Como usar Selenium Python para melhorar os testes web,https://www.homehost.com.br/blog/pythondjango/selenium-python/
+Curso de Selenium com Python,https://dunossauro.github.io/curso-python-selenium/
+Selenium Python Tutorial,https://www.geeksforgeeks.org/selenium-python-tutorial/
+4. Locating Elements - Selenium with Python - Read the Docs,https://selenium-python.readthedocs.io/locating-elements.html
+An Introduction to Selenium with Python,https://www.simplilearn.com/tutorials/python-tutorial/selenium-with-python
+Como desenvolver automação Web com Python e Selenium,https://blog.botcity.dev/pt-br/2024/02/12/automacao-web-python/
+Keys Especiais em Selenium: Como Utilizar em Python,https://hub.asimov.academy/tutorial/keys-especiais-em-selenium-como-utilizar-em-python/
+Python com Selenium automação de processos no ...,https://cursos.alura.com.br/forum/topico-python-com-selenium-automacao-de-processos-no-navegador-341604
+NoSuchElementException no Selenium e python : r/brdev,https://www.reddit.com/r/brdev/comments/128bosj/nosuchelementexception_no_selenium_e_python/
+Web Scraping Tutorial Using Selenium & Python (+ examples),https://www.scrapingbee.com/blog/selenium-python/
+A Complete Selenium Python tutorial for Beginner's,https://www.lambdatest.com/learning-hub/selenium-python
+Selenium WebDriver with Python Tutorial,https://www.javatpoint.com/selenium-python
+Aprenda a Baixar e Utilizar o Selenium com Python para ...,https://awari.com.br/aprenda-a-baixar-e-utilizar-o-selenium-com-python-para-automatizar-testes/
+Selenium WebDriver with Python - Test Automation University,https://testautomationu.applitools.com/selenium-webdriver-python-tutorial/
+NoSuchElementException no Selenium e python : r/brdev,https://www.reddit.com/r/brdev/comments/128bosj/nosuchelementexception_no_selenium_e_python/
+Usando Selenium (webdriver) Python,https://forum.casadodesenvolvedor.com.br/topic/44891-usando-selenium-webdriver-python/
+How to open a profile using WebDriver in python selenium?,https://learn.microsoft.com/en-us/answers/questions/1407179/how-to-open-a-profile-using-webdriver-in-python-se
+Selenium WebDriver with Python,https://www.coursera.org/learn/selenium-webdriver-python
+Learn Selenium with Python: Tutorial for Beginners,https://www.thetesttribe.com/blog/selenium-with-python/
+Clicar em classe com o mesmo nome usando selenium ...,https://pt.stackoverflow.com/questions/539695/clicar-em-classe-com-o-mesmo-nome-usando-selenium-python
+Selenium - O que você deveria saber - Parte 1 - PythonClub //,https://pythonclub.com.br/selenium-parte-1.html
+Extração de dados da WEB com Python e Selenium,https://www.udemy.com/course/extracao-de-dados-da-web-com-python-e-selenium/
+Mastering Web Automation With Python Selenium On ...,https://www.lambdatest.com/blog/python-selenium-with-chrome/
+Selenium Python Tutorial For Automated Testing,https://saucelabs.com/resources/blog/selenium-with-python-for-automated-testing
+Run Selenium Using a Jupyter Notebook,https://scrapeops.io/selenium-web-scraping-playbook/python-selenium-using-jupyter-notebook/
+Webdriver Manager for Python,https://pypi.org/project/webdriver-manager/
+Web Scraping with Selenium and Python Tutorial + ...,https://scrapfly.io/blog/web-scraping-with-selenium-and-python/
+Selenium 4.7 Automation with Python: A Comprehensive ...,https://www.turing.com/blog/selenium-with-python-guide
+Selenium | PyCharm Documentation,https://www.jetbrains.com/help/pycharm/selenium.html
+Novidades no Selenium - Download do Webdriver ...,https://www.hashtagtreinamentos.com/novidades-no-selenium-python
+Using Selenium on PythonAnywhere,https://help.pythonanywhere.com/pages/selenium/
+How to use selenium with python in render?,https://community.render.com/t/how-to-use-selenium-with-python-in-render/15510
+Python Selenium Href Value Extraction: Data Automation,https://www.bacancytechnology.com/qanda/qa-automation/python-selenium-href-value-extraction
+Coletar link da imagem com python , selenium e webdriver,https://forum.macmagazine.com.br/topic/176758-coletar-link-da-imagem-com-python-selenium-e-webdriver/
+Tutorial De Selenium Grid Com Python,https://awari.com.br/tutorial-de-selenium-grid-com-python/
+SeleniumLibrary,https://robotframework.org/SeleniumLibrary/SeleniumLibrary.html
+Selenium get HTML source in Python,https://pythonbasics.org/selenium-get-html/
+Browser Scripting with Python Selenium,https://community.jmp.com/t5/Uncharted/Browser-Scripting-with-Python-Selenium/ba-p/485000
+Modern Web Automation With Python and Selenium,https://realpython.com/modern-web-automation-with-python-and-selenium/
+Selenium Python Bindings,https://readthedocs.org/projects/selenium-python/downloads/pdf/latest/
+Selenium Python Tutorial com exemplo de WebDriver,https://www.guru99.com/pt/selenium-python.html
+Automatização e testes com Selenium,https://www.ufsm.br/pet/sistemas-de-informacao/2018/09/15/automatizacao-e-testes-com-selenium
+PYTHON FOR WEB AUTOMATION – SELENIUM BASICS,https://www.topcoder.com/thrive/articles/python-for-web-automation-selenium-basics
+Testing web apps in Python using Selenium WebDriver,https://applitools.com/tutorials/quickstart/web/selenium/python
+Google Search usando Selenium e Python – o básico ...,https://imasters.com.br/back-end/google-search-usando-selenium-e-python-o-basico-sobre-selenium-python
+Selenium with Python: How to Run Automation Tests Using ...,https://testsigma.com/blog/python-selenium-example/
+Python (Selenium) | Browserless.io,https://docs.browserless.io/v1/libraries/selenium-python
+Configure Python for Web Scraping,https://tilburgsciencehub.com/topics/computer-setup/software-installation/python/configuring-python-for-webscraping/
+Selenium with Python Tutorial,https://www.tutorialspoint.com/selenium/selenium_with_python_tutorial.htm
+7. WebDriver API — Selenium Python Bindings 2 documentation,https://selenium-python.readthedocs.io/api.html
+Solved: Notebook Environment, Selenium installation,https://community.fabric.microsoft.com/t5/General-Discussion/Notebook-Environment-Selenium-installation/m-p/3703772/highlight/true
+Downloads | ChromeDriver - Chrome for Developers,https://developer.chrome.com/docs/chromedriver/downloads
+[duvida - python] como faco para preencher um formulario ...,https://www.tabnews.com.br/johnny666/duvida-python-como-faco-para-preencher-um-formulario-com-requests
+Python testing in Visual Studio Code,https://code.visualstudio.com/docs/python/testing
+Courses,https://www.qspiders.com/courses
+Python Tutorial,https://www.w3schools.com/python/
+91 Selenium Interview Questions and Answers for 2024,https://www.simplilearn.com/tutorials/selenium-tutorial/selenium-interview-questions-and-answers
+How to Uninstall Python Packages,https://www.activestate.com/resources/quick-reads/how-to-uninstall-python-packages/
+método do driver maximize_window - Selenium Python,https://acervolima.com/metodo-do-driver-maximize_window-selenium-python/
+ChromeDriver - WebDriver for Chrome - Getting started,https://sites.google.com/chromium.org/driver/getting-started
+Python time sleep(),https://www.digitalocean.com/community/tutorials/python-time-sleep
+QSpiders: Testing Training Institute,https://www.qspiders.com/
+FITA Academy : AWS, Python, Java, Software Testing ...,https://www.fita.in/
+método do driver de volta - Selenium Python,https://acervolima.com/metodo-do-driver-de-volta-selenium-python/
+Learn Free Courses with Certificates,https://learntube.ai/courses
